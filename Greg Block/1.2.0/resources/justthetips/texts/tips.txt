@@ -1,23 +1,23 @@
-You can crush down Granite twice to obtain Red Sand, siftable as regular Sand
-With about 30 Waterwheels, you will have instant sifting
-Creepers are disabled in this pack
-In GregTech, it's all about quantity
-As long as you have full health, it's safe to fall into the void
-Press Backspace to see the previous recipe in JEI
-Press F7 to see where mobs can spawn
-You can put fluids in/take fluids out of machines by clicking the fluid slot with a Bucket or Cell
-Sometimes you need to go backwards to continue forwards
-Crafting Tables keep the items put in them
-You can break only one half of a double Slab by holding shift while breaking it
-Keep your multiblocks in one chunk
-You don't need Servos for using ItemDucts. You can simply use Hoppers
-Don't overclock recipes if you don't have to.
-Boom = Bad
-Make sure your multiblocks are in only one chunk.
-The true goal of GregTech is automation, not getting to the end. So don't just rush it
-Make sure to look through all the recipes for an item
-Craft things in batches
-Don't look at recipes for things that you can't make yet, it just leads to confusion
-Hardened Glass in the only wither-proof block in the pack
-Press Y (by default) while hovering over an item in JEI to see where you have it stored
-Hold ~ (by default) to mine one type of block in an area
+你可以碾碎红色花岗岩两次，以获得红沙，红沙可作为普通沙子使用。
+如果你在自动筛选机上装大约30个水轮，那么你可以在一瞬间完成筛选。 
+爬行者(苦力怕)在这个包中被禁用了(不会自然生成)
+在格雷科技中，任何资源都需要一个非常大的数量 
+只要你的血量是满的，那么你即使掉入虚空你也不会死亡
+按Backspace键可以在JEI中查看前一个合成配方
+按F7可以看到可以生成怪物的位置
+你可以通过用桶或流体罐点击流体槽来将流体放进机器中或者从机器中取出
+有时候你需要倒退着走才能继续前进。
+工作台可以保留放入其中的物品(并且在其材质上显示出来)
+你可以在破坏叠在一格方块中的厚板时通过按住shift来只破坏其中的一半
+请保持你的多方快结构在一个区块中
+你不需要一定通过伺服器来抽取物品或者液体，你可以使用漏斗(气动科技的两种漏斗)来给管道提供物品或者液体。
+如果不是必须的话请不要超频。
+爆炸=糟糕的情况
+请确保你的多方快结构在一个区块内
+格雷科技真正的目标是自动化而不是走到科技线的终点，因此请不要急于求成。
+一定要仔细查看每个阶段的所有配方
+手工制作物品一定要分批进行
+不要去通过JEI查看你在手册上看不到的合成配方，这只会导致混乱。
+硬化玻璃是唯一在背包中可以防凋零的方块
+按住Y(默认)，鼠标指向JEI的物品可以看到这个物品储存在哪个箱子中
+采集中按住~(默认)可以采集相连的同种方块
